@@ -1,9 +1,13 @@
 * <2023-12-04 Mon>
+** Working on Introduction to Contribution 1
+** Reading The Craft of Scientific Writing
+:LOGBOOK:
+CLOCK: [2023-12-04 Mon 14:44]--[2023-12-04 Mon 15:14] =>  0:30
+:END:
 ** Cleaning up whole document
 :LOGBOOK:
-CLOCK: [2023-12-04 Mon 11:00]--[2023-12-04 Mon 13:46] =>  2:46
+CLOCK: [2023-12-04 Mon 11:00]--[2023-12-04 Mon 14:44] =>  3:44
 :END:
-** Working on Introduction to Contribution 1
 
 * <2023-12-01 Fri>
 ** Morning Getting New ID/Publishing to GAL/Getting/Commuting
