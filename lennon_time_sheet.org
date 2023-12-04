@@ -1,0 +1,29 @@
+* <2023-12-04 Mon>
+** Cleaning up whole document
+:LOGBOOK:
+CLOCK: [2023-12-04 Mon 11:00]--[2023-12-04 Mon 13:46] =>  2:46
+:END:
+** Working on Introduction to Contribution 1
+
+* <2023-12-01 Fri>
+** Morning Getting New ID/Publishing to GAL/Getting/Commuting
+** Studying on what makes good intro
+:LOGBOOK:
+CLOCK: [2023-12-01 Fri 15:54]--[2023-12-01 Fri 16:25] =>  0:31
+:END:
+** Reading The Craft of Scientific Writing
+:LOGBOOK:
+CLOCK: [2023-12-01 Fri 16:26]--[2023-12-01 Fri 17:01] =>  0:35
+:END:
+** Looking at INFORMS Style
+https://pubsonline-informs-org.afit.idm.oclc.org/authorportal/submission-guidelines
+:LOGBOOK:
+CLOCK: [2023-12-02 Sat 00:13]--[2023-12-02 Sat 00:13] =>  0:00
+CLOCK: [2023-12-01 Fri 18:48]--[2023-12-01 Fri 19:00] =>  0:12
+:END:
+** Working on Introduction to Contribution 1
+:LOGBOOK:
+CLOCK: [2023-12-01 Fri 23:43]--[2023-12-02 Sat 00:08] =>  0:25
+CLOCK: [2023-12-01 Fri 19:27]--[2023-12-01 Fri 19:43] =>  0:16
+CLOCK: [2023-12-01 Fri 19:00]--[2023-12-01 Fri 19:22] =>  0:22
+:END:
