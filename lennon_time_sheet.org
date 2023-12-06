@@ -1,3 +1,17 @@
+
+* <2023-12-05 Tue>
+** Working on Introduction to Contribution 1
+:LOGBOOK:
+CLOCK: [2023-12-06 Wed 00:57]--[2023-12-06 Wed 04:02] =>  3:05
+CLOCK: [2023-12-05 Tue 22:31]--[2023-12-06 Wed 00:56] =>  2:25
+CLOCK: [2023-12-05 Tue 21:12]--[2023-12-05 Tue 22:03] =>  0:51
+:END:
+** Reading The Craft of Scientific Writing
+:LOGBOOK:
+CLOCK: [2023-12-05 Tue 20:14]--[2023-12-05 Tue 21:02] =>  0:48
+CLOCK: [2023-12-05 Tue 15:06]--[2023-12-05 Tue 15:16] =>  0:10
+CLOCK: [2023-12-05 Tue 10:22]--[2023-12-05 Tue 10:34] =>  0:12
+:END:
 * <2023-12-04 Mon>
 ** Working on Introduction to Contribution 1
 :LOGBOOK:
